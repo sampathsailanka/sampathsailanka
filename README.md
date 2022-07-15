@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sampath Sai Lanka</h1>
+<h1 align="center">Hi 👋, I'm Lanka Sai Sampath</h1>
 
 <p align = "center"><img src = "https://user-images.githubusercontent.com/95229816/153761696-b2784cae-5a36-4215-be36-29632ccc9323.png"></a>
 
