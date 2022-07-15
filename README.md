@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampathsailanka&show_icons=true&locale=en&theme=dracula" alt="sampathsailanka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampathsailanka&theme=highcontrast" alt="sampathsailanka" /></p>
+
+<b>📊 My Github Contribution Graph</b>
+<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=sampathsailanka&theme=react-dark&hide_border=True"></p>
