@@ -4,8 +4,6 @@
 
 - 📚 I’m currently learning - Machine Learning using Python
 
-- 🎯 Wanted to integrate Software with Mechanical in Industries
-
 - 📫 How to reach me - sampathsm144@gmail.com
 
 <!-- - ⚡ Fun fact **...** -->
