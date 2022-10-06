@@ -4,7 +4,7 @@
 
 - 🌱 I’m intrested in competitive prorgamming
 
-- 🎯 Willing to have a challenging and rewarding opportunity with an organisation
+- 🎯 Willing to have a challenging and rewarding opportunity.
   
 - 📫 How to reach me - sampathsm144@gmail.com
 
