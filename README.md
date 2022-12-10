@@ -2,7 +2,7 @@
 
 - 👀 I love to learn 📚 and apply 🚀
 
-- 🔭 I’m currently learning Full Stack Web Development
+- 🔭 Currently learning Full Stack Web Development
 
 
 - 🌱 I’m intrested in competitive prorgamming
