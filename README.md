@@ -5,7 +5,7 @@
 <!-- 🔭 Currently learning Full Stack Web Development -->
 
 
-- 🌱 I’m intrested in competitive prorgamming
+- 🌱 Intrested in competitive prorgamming
 
 - 🎯 Willing to have a challenging and rewarding opportunity.
   
