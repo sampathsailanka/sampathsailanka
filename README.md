@@ -1,5 +1,7 @@
 - 👋 Hi, I'm Sampath Sai Lanka
 
+- Currrently working as Junior Software Developer.
+
 - 👀 I love to learn 📚 and apply 🚀
 
 <!-- 🔭 Currently learning Full Stack Web Development -->
